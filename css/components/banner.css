@@ -1,0 +1,30 @@
+.banner {
+	background-image:linear-gradient(rgba(0,3,0,0.1), rgba(1,0,0,0.7)), url(../../images/burger2.jpg);
+	color: white;
+	padding: 150px 0px;
+	background-size: cover;
+	background-position: center;
+}
+
+.banner h1 {
+	font-size: 50px;
+	padding-left: 0px;
+	padding-top: 0px;
+	font-weight: bolder;
+	text-align: center;
+	
+
+}
+
+.banner h2 {
+	font-size: 30px;
+	font-weight:  lighter;
+	opacity: 0.8;
+	margin-bottom: 40px;
+	text-align: left;
+}
+
+.logo {
+	position:absolute;top:0px;left:0px
+}
+
